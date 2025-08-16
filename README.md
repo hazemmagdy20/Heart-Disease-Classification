@@ -47,7 +47,7 @@ It contains The following columns:
 2- **Load Dataset:**
  - The heart disease dataset was loaded from a CSV file into a pandas DataFrame.
 
-3- **Data Exploration & Cleaning:
+3- **Data Exploration & Cleaning:**
  
  - The shape of the DataFrame was checked.
  
